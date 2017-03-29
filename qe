@@ -10,6 +10,7 @@ QE upgrade notes: https://etherpad.openstack.org/p/OSIC-QE-Upgrade-Goodies
 Grenade updates for zero downtime: https://etherpad.openstack.org/p/osic-zero-downtime-grenade-enhancements
 QE Feedback on PTG: https://etherpad.openstack.org/p/osic-qe-pike-ptg-brainstorm
 QE Updates based on PTG: https://etherpad.openstack.org/p/PTG_Pike_Updates
+Sherpa design discussions: https://etherpad.openstack.org/p/qe-sherpa-design
 
 OCATA
 Destructuve Testing: https://etherpad.openstack.org/p/ocata-qa-destructive-testing
